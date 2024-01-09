@@ -26,11 +26,36 @@ Java yazılım dili ile geliştirilmiş arayüz için Swing GUI kullanılmış b
 
 Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
 - **/src**
-  - ``
+  - `AddBook.java`
+  - `AddStudent.java`
+  - `AddTeacher.java`
+  - `AllBooks.java`
+  - `AllStudents.java`
+  - `Book.java`
+  - `BookBuilder.java`
+  - `Dashboard.java`
+  - `DatabaseConnector.java`
+  - `Factory.java`
+  - `ICrud.java`
+  - `IState.java`
+  - `LoginPage.java`
+  - `ObserverBookInfo.java`
+  - `ObserverNotice.java`
+  - `RAbstractObserver.java`
+  - `RankUserAbstract.java`
+  - `Session.java`
+  - `StartPage.java`
+  - `StateAvailable.java`
+  - `StateHidden.java`
+  - `StateTaken.java`
+  - `Student.java`
+  - `StudentLoginPage.java`
+  - `Teacher.java`
+  - `TeacherLoginPage.java`
+  - `UserDashboard.java`
 - **/public**
   - `index.html`
 - `README.md`
-- `LICENSE`  
 
 
 ---
