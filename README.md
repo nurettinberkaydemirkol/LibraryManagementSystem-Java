@@ -53,8 +53,8 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
   - `Teacher.java`
   - `TeacherLoginPage.java`
   - `UserDashboard.java`
-- **/public**
-  - `index.html`
+- **/Database**
+  - `SQLCreateDatabaseCommands.txt`
 - `README.md`
 
 
@@ -62,8 +62,8 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 
 ## Kurulum
 
-Projeyi yerel bilgisayarınıza klonlamak ve çalıştırmak için adımları buraya ekleyin.  
-Gerekli bağımlılıkların nasıl yükleneceği (veri seti, kullanılan kütüphanelerin sürümleri vs.), konfigürasyon adımları vb. bu bölümde bulunabilir.
+- Projeyi klonlayın ve src dosyasını NetBeans IDE'de bir proje oluşturarak packages içine kopyalayın
+- Projenin "libraries" konumuna mysql-connector-12.jar dosyasını kopyalayın. [buradan indirebilirsiniz](https://dev.mysql.com/downloads/connector/j/)
 
 ---
 
