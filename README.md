@@ -64,6 +64,7 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 
 - Projeyi klonlayın ve src dosyasını NetBeans IDE'de bir proje oluşturarak packages içine kopyalayın
 - Projenin "libraries" konumuna mysql-connector-12.jar dosyasını kopyalayın. [buradan indirebilirsiniz](https://dev.mysql.com/downloads/connector/j/)
+- StartPage.java dosyasına sağ tıklayıp "run" sekmesine tıklayın ve pojeyi çalıştırın
 
 ---
 
