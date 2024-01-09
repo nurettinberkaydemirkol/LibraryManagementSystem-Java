@@ -81,5 +81,8 @@ Projeyi yaparken hangi kaynaklardan bilgi edindiğinizi belirtin.
 
 ## İletişim
 
-# Nurettin Berkay DEMİRKOL
+### Nurettin Berkay DEMİRKOL
 - [LinkedIn](https://www.linkedin.com/in/nurettin-berkay-demirkol-100830221/)
+
+### Kadir ŞAHİN
+- [LinkedIn](https://www.linkedin.com/in/kadir-%C5%9Fahin-519055220/)
