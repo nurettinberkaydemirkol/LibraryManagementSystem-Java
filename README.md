@@ -10,9 +10,9 @@
 
 | Öğrenci No | Adı Soyadı           | Bölüm          		   | Proje Grup No | Grup Üyelerinin Github Profilleri                 |
 |------------|----------------------|--------------------------|---------------|---------------------------------------------------|
-| 1210505056  | Nurettin Berkay DEMİRKOL			| Yazılım Mühendisliği     | PROJE_7       | [Github]([https://github.com/balfatih](https://github.com/nurettinberkaydemirkol))     |
-| 1210505061  | Kadir ŞAHİN   | Yazılım Mühendisliği     | PROJE_7       | [Github]([https://github.com/balfatih](https://github.com/AesBarant))     |
-| 1210505065  | Onur VAROL   | Yazılım Mühendisliği     | PROJE_7       | [Github]([https://github.com/balfatih](https://github.com/onurvaroll))     |
+| 1210505056  | Nurettin Berkay DEMİRKOL			| Yazılım Mühendisliği     | PROJE_7       | [Github](https://github.com/nurettinberkaydemirkol)     |
+| 1210505061  | Kadir ŞAHİN   | Yazılım Mühendisliği     | PROJE_7       | [Github](https://github.com/AesBarant)    |
+| 1210505065  | Onur VAROL   | Yazılım Mühendisliği     | PROJE_7       | [Github](https://github.com/onurvaroll)     |
 
 ---
 
