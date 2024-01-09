@@ -25,7 +25,6 @@ Java yazılım dili ile geliştirilmiş arayüz için Swing GUI kullanılmış b
 
 ## Proje Dosya Yapısı
 
-Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
 - **/src**
   - `AddBook.java`
   - `AddStudent.java`
@@ -70,8 +69,6 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 ---
 
 ## Katkılar
-
-Projeyi yaparken hangi kaynaklardan bilgi edindiğinizi belirtin.
 
 - [Builder Pattern](https://tugrulbayrak.medium.com/builder-pattern-2f6fb1dbf4a0)
 - [State Design](https://www.geeksforgeeks.org/state-design-pattern/)
