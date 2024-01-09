@@ -72,8 +72,13 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 
 Projeyi yaparken hangi kaynaklardan bilgi edindiğinizi belirtin.
 
+- [Builder Pattern](https://tugrulbayrak.medium.com/builder-pattern-2f6fb1dbf4a0)
+- [State Design](https://www.geeksforgeeks.org/state-design-pattern/)
+- [Observer Pattern](https://www.geeksforgeeks.org/observer-pattern-set-1-introduction/)
+
 ---
 
 ## İletişim
 
-Proje ile ilgili iletişim bilgileri veya bağlantılarınızı ekleyin. Örneğin, e-posta adresleri, sosyal medya hesapları vb.
+# Nurettin Berkay DEMİRKOL
+- [LinkedIn](https://www.linkedin.com/in/nurettin-berkay-demirkol-100830221/)
